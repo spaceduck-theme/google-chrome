@@ -25,7 +25,7 @@ and ingcognito coloring (which includes the above features as well, but colored 
 
 ## Team
 
-This theme is maintained by the following person(s) in addition to being helped by a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) in addition to being helped by a bunch of [awesome contributors](https://github.com/spaceduck-theme/google-chrome/graphs/contributors).
 
 | [![bigpick](https://avatars1.githubusercontent.com/u/9803299?v=4&s=70)](https://github.com/bigpick) |
 | --- |
